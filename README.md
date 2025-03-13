@@ -5,8 +5,12 @@
 - 📫 How to reach me HakobJK@gmail.com
 
 <!---
+
 Jaycuppp/Jaycuppp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+USE THIS GUY`s PROFILE TO BUILD MY OWN: https://github.com/soljesty
+
 --->
 
 <!--- 
