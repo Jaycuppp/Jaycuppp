@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaycuppp
 - 👀 I’m interested in Video Games, Movies/TV Shows
-- 🌱 I’m currently learning Backend Development mainly through Python
-- 💞️ I’m looking to collaborate on any big or small project that involves the use of Python
+- 🌱 I’m currently learning Computer Programming mainly through the Python, C++, and JavaScript Languages
+- 💞️ I’m looking to collaborate on any big or small project that involves the use of Python, C++, or JavaScript
 - 📫 How to reach me HakobJK@gmail.com
 
 <!---
